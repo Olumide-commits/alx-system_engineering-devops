@@ -9,3 +9,4 @@ Move the file betty from /tmp/ to /tmp/my_first_directory
  Bye bye Betty
 Delete the file betty
 Delete the directory my_first_directory that is in the /tmp directory.
+ changes the working directory to the previous one.
